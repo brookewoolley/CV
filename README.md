@@ -27,7 +27,7 @@ In my freelance life I have pitched regularly to clients, honing both my written
 
 I have spent most of my life practising art and design and therefore have a keen visual eye.  I have successfully worked to brief for clients countless times and am visually precise.  I specialised in architectural illustration, maps and event stationery.  You can see a selection of work here:- https://www.instagram.com/wolfwhistle/.   
 
-Most of my creative skills are self-taught which has been a useful touchstone for learning to code - I feel there are many parallels in the processes of creating a program as well as the need for continuous learning and maintaining a practice.
+Most of my creative skills are self-taught which has been a useful touchstone for learning to code as I feel that there are many parallels to the processes of creating a program as well as the need for continuous learning and maintaining a practice.
 
 #### Problem Solving
 
