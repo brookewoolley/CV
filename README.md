@@ -1,18 +1,20 @@
 ## Brooke Woolley
 
+[LinkedIn profile](https://www.linkedin.com/in/brooke-woolley-5971b455/)  |   [Instagram](https://www.instagram.com/wolfwhistle/)
+
 My passion is for creating useful, beautiful things.  This, plus a long-standing interest in tech, has led me to study at the [Makers](https://makers.tech/) software development bootcamp (January cohort). My background is in visual arts and like most creatives I am a self-starter, always with a project on the go.
 
 I am looking for a role where I can continue to learn and challenge myself using the industry best practices Makers have instilled.
 
 ## Projects
 
-| Project         | Description               | Technologies  |
-| --------------- |---------------------------|-------------|
-| [Hoot!](https://github.com/wise-social2/Hoot-App) | My final team project at Makers was to create a social-good app with the aim of connecting isolated elderly people and young people who want to volunteer their time.  Our key team goals was to learn completely new tech and follow agile best-practices. | Java, Android Studio, Firebase (user authentication, database and storage), jUnit and Espresso for testing, Jenkins for CI. |
-| [Bank tech test](https://github.com/brookewoolley/bank-tech-test)  | Sample tech test given by Makers in week ten to practice OOP and TDD. | Ruby, RSpec for testing, SimpleCov for test coverage, Rubocop for linting. |
-| [Acebook](https://github.com/brookewoolley/acebook-rails-template) | A group project where we created a clone of Facebook on Ruby on Rails. We practiced agile working methods in two day sprints over the course of two weeks. | Ruby on Rails, RSpec and Capybara for testing, Rubocop, Travis CI, Code Climate, deployed on Heroku |
-| [Bowling scorecard](https://github.com/brookewoolley/bowling-challenge)| Weekend javascript project to write a ten pin bowling scorecard program. | Javascript, Jasmine for testing, ESLint for linting.|
-| [Thermostat](https://github.com/brookewoolley/Thermostat) | A javascript project using the openweather API to display the current weather in major capital cities. | Javascript, jQuery, Jasmine for testing, Bootstrap for styling |
+| Project         | Description               | Technologies  | Deployed |
+| --------------- |---------------------------|---------------|----------|
+| [Hoot!](https://github.com/wise-social2/Hoot-App) | My final team project at Makers was to create a social-good app with the aim of connecting isolated elderly people and young people who want to volunteer their time.  Our key team goals was to learn completely new tech and follow agile best-practices.  | Java, Android Studio, Firebase (user authentication, database and storage), jUnit and Espresso for testing, Jenkins for CI. | [A video demo of the app is on slide three of our project presentation.](https://docs.google.com/presentation/d/1pBeTqIbbT3RfQt9Tmx7fHVA1MdCLl8py0lkka1uQwZc/edit#slide=id.g55be737238_0_43)  |
+| [Bank tech test](https://github.com/brookewoolley/bank-tech-test)  | Sample tech test given by Makers in week ten to practice OOP and TDD. | Ruby, RSpec for testing, SimpleCov for test coverage, Rubocop for linting. | N/A - logic only  |
+| [Acebook](https://github.com/brookewoolley/acebook-rails-template) | A group project where we created a clone of Facebook on Ruby on Rails. We practiced agile working methods in two day sprints over the course of two weeks. | Ruby on Rails, RSpec and Capybara for testing, Rubocop, Travis CI, Code Climate, deployed on Heroku | [Here!](https://acebook-template.herokuapp.com/)
+| [Bowling scorecard](https://github.com/brookewoolley/bowling-challenge)| Weekend javascript project to write a ten pin bowling scorecard program. | Javascript, Jasmine for testing, ESLint for linting.| N/A - logic only |
+| [Thermostat](https://github.com/brookewoolley/Thermostat) | A javascript project using the openweather API to display the current weather in major capital cities. | Javascript, jQuery, Jasmine for testing, Bootstrap for styling | [Here!](http://bwthermostat.surge.sh/) |
 
 
 ## Skills
