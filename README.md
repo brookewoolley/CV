@@ -1,6 +1,6 @@
 ## Brooke Woolley
 
-[LinkedIn profile](https://www.linkedin.com/in/brooke-woolley-5971b455/)  |   [Instagram](https://www.instagram.com/wolfwhistle/)
+[LinkedIn profile](https://www.linkedin.com/in/brooke-woolley-5971b455/)  |   [Instagram](https://www.instagram.com/brookewoolleyillo/)
 
 My passion is for creating useful, beautiful things.  This, plus a long-standing interest in tech, has led me to study at the [Makers](https://makers.tech/) software development bootcamp (January cohort). My background is in visual arts and like most creatives I am a self-starter, always with a project on the go.
 
